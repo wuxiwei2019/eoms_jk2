@@ -1,0 +1,17 @@
+{
+    "start_time": "2019/06/01 10:00",
+    "end_time": "2019/06/25 11:00",
+    "update_time": "20",
+    "py_file": "get_eomsgd.py",
+    "filename": "zaitu_info.txt",
+    "field_list": [
+        "工单流水号",
+        "派单时间",
+        "区县",
+        "装维人员",
+        "小区名称",
+        "小区编码",
+        "工单状态",
+        "派单次数"
+    ]
+}
